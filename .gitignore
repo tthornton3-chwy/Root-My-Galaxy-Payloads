@@ -1,2 +1,4 @@
 /build/
 /diagnostics/
+.venv
+.DS_Store
